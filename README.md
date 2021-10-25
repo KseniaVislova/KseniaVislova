@@ -9,4 +9,4 @@
 * React
 * Bootstrap
 
-💬[Сайт с примерами моих работ](http://kseniavislova.ru/): http://kseniavislova.ru/
+💬 [My portfolio](http://kseniavislova.ru/): http://kseniavislova.ru/
