@@ -1,5 +1,5 @@
 # ✨Ksenia Vislova✨
-### _Frontend-developer_
+### _Frontend Developer_
 
 ##### Tech Skills:
 
