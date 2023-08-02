@@ -5,7 +5,6 @@
 
 * HTML + CSS
 * Java Script
-* Vue
 * React
 * Bootstrap
 
